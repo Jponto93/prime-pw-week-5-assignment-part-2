@@ -1,0 +1,16 @@
+.main-header {
+  background-color: #586A6A;
+  color: #DAD4EF;
+  text-align: center;
+}
+
+.main-text {
+  background-color: #d9d9d9;
+  padding: 1em;
+}
+
+.main-body {
+  background-image: url(record.png);
+  background-repeat: repeat;
+  margin: 0;
+}
